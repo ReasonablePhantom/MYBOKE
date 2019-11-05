@@ -1,0 +1,38 @@
+body{text-align:center;}
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: orange;
+}
+
+.big {
+    font-size: 70px;
+}
+
+.mid {
+    width: 600px;
+}
+
+.n {
+    font-family: 'Lobster', cursive;
+}
+
+.m {
+    font-family: 'Satisfy', cursive;
+}
+
+.l {
+    font-family: 'Great Vibes', cursive;
+}
+
+.i {
+    background-color: green;
+}
+
+marquee {
+    color: yellow;
+}
+
+body {
+    background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+    background-repeat: repeat;
+}
