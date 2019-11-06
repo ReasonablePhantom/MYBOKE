@@ -1,4 +1,7 @@
-body{text-align:center;}
+body {
+    text-align: center;
+}
+
 h1 {
     font-family: 'Open Sans', sans-serif;
     color: orange;
@@ -35,4 +38,9 @@ marquee {
 body {
     background-image: url('http://i.stack.imgur.com/kx8MT.gif');
     background-repeat: repeat;
+}
+
+a {
+    font-size: 70px;
+    color:yellow;
 }
